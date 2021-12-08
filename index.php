@@ -33,7 +33,7 @@
                     <li><a href="#education">Education</a></li>
                     <li><a href="#portfolio">Portfolio</a></li>
                     <!-- <li><a href="#recommandations">recommandation</a></li> -->
-                    <li><a href="#contact">contact</a></li>
+                   <!--  <li><a href="#contact">contact</a></li> -->
                 </ul>
             </div>
 
