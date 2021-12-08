@@ -310,23 +310,23 @@
                     </a>
                 </div>
             </div>
-                                                                                            <!-- <div class="row">
-                                                                                                <div class="col-sm-4">
-                                                                                                    <a href="#" class="thumbenail" target="_blank">
-                                                                                                        <img src="images/actrices.png" alt="Travel">
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                                <div class="col-sm-4">
-                                                                                                    <a href="#" class="thumbenail" target="_blank">
-                                                                                                        <img src="images/voyage.png" alt="Travel">
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                                <div class="col-sm-4">
-                                                                                                    <a href="#" class="thumbenail" target="_blank">
-                                                                                                        <img src="images/actrices.png" alt="Travel">
-                                                                                                    </a>
-                                                                                                </div>
-                                                                                            </div> -->
+            <!-- <div class="row">
+                 <div class="col-sm-4">
+                    <a href="#" class="thumbenail" target="_blank">
+                     <img src="images/actrices.png" alt="Travel">
+                    </a>
+                 </div>
+                 <div class="col-sm-4">
+                    <a href="#" class="thumbenail" target="_blank">
+                               <img src="images/voyage.png" alt="Travel">
+                         </a>
+                         </div>
+                     <div class="col-sm-4">
+                     <a href="#" class="thumbenail" target="_blank">
+                          <img src="images/actrices.png" alt="Travel">
+                      </a>
+                   </div>
+              </div> -->
         </div>
     </section>
    <!--  
@@ -364,9 +364,10 @@
                 </a>
             </div>
         </div>
-    </section> -->
+    </section> 
+-->
 
-
+<!-- 
     <section id="contact">
         <div class="container">
             <div class="white-div"></div>
@@ -413,7 +414,9 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
+
+
     <footer class="text-center">
         <a href="#about">
             <span class="glyphicon glyphicon-chevron-up"></span>
