@@ -305,7 +305,7 @@
                     </a>
                 </div>
                 <div class="col-sm-4">
-                    <a href="#" class="thumbenail" target="_blank">
+                    <a href="https://github.com/mouhazba/moncv" class="thumbenail" target="_blank">
                         <img src="images/burger.png" alt="Travel">
                     </a>
                 </div>
@@ -326,7 +326,8 @@
                           <img src="images/actrices.png" alt="Travel">
                       </a>
                    </div>
-              </div> -->
+              </div> 
+            -->
         </div>
     </section>
    <!--  
@@ -414,7 +415,8 @@
                 </div>
             </div>
         </div>
-    </section> -->
+    </section> 
+-->
 
 
     <footer class="text-center">
